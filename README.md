@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Waste Management**
 
-- 📫 How to reach me **23pa1a05i8@vishnu.edu.in**
+- 📫 How to reach me **palledalokesh07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
