@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshpalleda" alt="lokeshpalleda" /></a> </p>
 
-- 🔭 I’m currently working on **Waste Management**
-
 - 📫 How to reach me **palledalokesh07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
